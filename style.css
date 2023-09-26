@@ -12,13 +12,15 @@ body{
 .header{
   background: lime; 
   text-align: center;
-  padding: 10px;
+  padding: 15px;
   text-transform: capitalize;
   position: sticky;
   top: 0;
 }
 .header__title{
   padding: 0 15px;
+  font-size: 25px;
+
 }
 
 
@@ -32,9 +34,9 @@ body{
 .article__span{
   background: #fff;
   color: #000;
-  font-size: 20px;
+  font-size: 18px;
   text-align: center;
-  padding: 5px 15px;
+  padding: 10px 15px;
   text-transform: capitalize;
 }
 .article__p{
@@ -55,7 +57,7 @@ body{
 .link__a{
   background: aqua;
   text-decoration: none; 
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
   padding: 10px 20px;
 }
